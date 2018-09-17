@@ -1,1 +1,1 @@
-# Analysis Conducted on Shots taken in basketball.
+# Analysis Conducted on shots taken in basketball.
